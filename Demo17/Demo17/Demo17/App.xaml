@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo17.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Blue1">#2f83a7</Color>
+            <Color x:Key="Blue2">#39738b</Color>
+            <Color x:Key="Blue4">#399ec6</Color>
+            <Color x:Key="Blue5">#1F5767</Color>
+            <Color x:Key="DisabledGrey">#e1e1e1</Color>
+            <Color x:Key="Green">Green</Color>
+            <Color x:Key="Blue">Blue</Color>
+            <Color x:Key="BackgroundTopColor">#133f51</Color>
+            <Color x:Key="BackgroundBottomColor">#102932</Color>
+            <Color x:Key="DarkGray">#2a2a2a</Color>
+            <Color x:Key="TransparentColor">Transparent</Color>
+
+            <Color x:Key="RedDull">#ff4b44</Color>
+            <Color x:Key="RedBright">Red</Color>
+            <Color x:Key="GreenDull">#004F00</Color>
+            <Color x:Key="GreenBright">#98D42D</Color>
+            <Color x:Key="BlueDull">#2f83a7</Color>
+
+            <Color x:Key="TagForegroundColor">#d3d3d3</Color>
+            <Color x:Key="BarelyThere">#02FFFFFF</Color>
+            <Color x:Key="White">#FFFFFF</Color>
+            <Color x:Key="WhiteTrans">#55FFFFFF</Color>
+            <Color x:Key="Black">#FF000000</Color>
+            <Color x:Key="BlackTrans">#55000000</Color>
+            <Color x:Key="Disabled">#dcdcdc</Color>
+            <Color x:Key="GrayTrans">#33000000</Color>
+            <Color x:Key="RedText">#c63c39</Color>
+
+            <Color x:Key="AdminLoginText">#b5e784</Color>
+            <Color x:Key="AdminButtonGrey">#d6d3ce</Color>
+            <Color x:Key="TextRed">#c63c39</Color>
+
+            <Style x:Key="PfxBlueButton" TargetType="Button">
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderColor" Value="Transparent" />
+                <Setter Property="BorderWidth" Value="1" />
+                <Setter Property="BorderRadius" Value="1" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="VerticalOptions" Value="FillAndExpand" />
+                <Style.Triggers>
+                    <Trigger TargetType="Button" Property="IsEnabled" Value="True">
+                        <Setter Property="BackgroundColor" Value="#399ec6" />
+                    </Trigger>
+                    <Trigger TargetType="Button" Property="IsEnabled" Value="False">
+                        <Setter Property="BackgroundColor" Value="Gainsboro" />
+                        <Setter Property="TextColor" Value="White" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

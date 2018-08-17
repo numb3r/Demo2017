@@ -1,0 +1,17 @@
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\bin\Debug\netstandard2.0\Demo17.deps.json
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\bin\Debug\netstandard2.0\Demo17.dll
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\bin\Debug\netstandard2.0\Demo17.pdb
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Demo17.csprojAssemblyReference.cache
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Demo17.csproj.CoreCompileInputs.cache
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Demo17.AssemblyInfoInputs.cache
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Demo17.AssemblyInfo.cs
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Demo17.csproj.CopyComplete
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Demo17.dll
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Demo17.pdb
+C:\Users\santosh.thapa\Downloads\Demo17\Demo17\Demo17\obj\Debug\netstandard2.0\Templates\PageIndicatorTemplate.xaml.g.cs
